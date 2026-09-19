@@ -1,8 +1,8 @@
 
 
 ## EXP 3 - Delhi Air Quality Analysis
-### Name : KANNAN R
-### Register number : 212224240072
+### Name : SYED MEERAN A
+### Register number : 212225040455
 
 ## Aim
 
